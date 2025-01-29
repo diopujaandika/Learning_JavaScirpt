@@ -1,0 +1,1 @@
+//Single Comment at JavaScript
